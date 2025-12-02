@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import { ChefHat, Search, Sparkles, Loader2, Clock, Users } from 'lucide-react';
+import { ChefHat, Search, Sparkles, Loader2, Clock } from 'lucide-react';
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
